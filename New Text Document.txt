@@ -1,0 +1,4 @@
+apache-maven-3.6.0
+apache-tomcat-9.0.17
+apache-maven-3.6.0
+jdk1.8.0_201
